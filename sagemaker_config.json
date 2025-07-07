@@ -1,0 +1,7 @@
+{
+  "bucket_name": "smart-inventory-20250629213619",
+  "s3_data_path": "s3://smart-inventory-20250629213619/data/electronics_inventory_data.csv",
+  "notebook_instance": "inventory-forecasting-20250629",
+  "role_arn": "arn:aws:iam::103631804736:role/SageMakerInventoryRole",
+  "setup_date": "2025-06-29T21:36:23.743494"
+}
